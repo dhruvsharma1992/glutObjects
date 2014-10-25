@@ -11,29 +11,13 @@ The user   should include the  following libraries in his/her code along with th
 Library Headers For Linux Based Systems
 
 ********************************************************/
-  #include <OpenGL/OpenGL.h>
-  
-  #include<GLUT/glut.h>
-  
-  #include<stdio.h>
-  
-  #include<stdlib.h>
-
-
+ 
+ OpenGL/OpenGL.h, GLUT/glut.h
+ 
 /*******************************************************************************
 
    Library Headers For Windows Based Systems
    
  ******************************************************************************/
 
-  #include<windows.h>
-  
-  #include<gl/Gl.h>
-  
-  #include<gl/glu.h>
-  
-  #include<gl/glut.h>
-  
-  #include<stdio.h>
-  
-  #include<stdlib.h>
+ windows.h gl/Gl.h gl/glu.h gl/glut.h
