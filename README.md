@@ -13,6 +13,6 @@ Library Headers For Linux Based Systems
  
  
  Library Headers For Windows Based Systems
- ==================================
+ ==========================================
  
  windows.h gl/Gl.h gl/glu.h gl/glut.h
